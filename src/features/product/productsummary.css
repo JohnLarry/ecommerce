@@ -1,0 +1,64 @@
+.parent-tab{
+    display: flex;
+    justify-content: space-around;
+}
+.product-square {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    background: #227EFF;
+    border-radius: 4px;
+    ;
+
+}
+
+.popular-square {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    border-radius: 4px;
+    background: #EE6F44;
+
+
+}
+.recommended-square {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    border-radius: 4px;
+    background: #7E42F5;
+
+
+}
+.shop-square {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    border-radius: 4px;
+    background: #05944F;
+
+
+}
+.square-container{
+    width: 48px;
+}

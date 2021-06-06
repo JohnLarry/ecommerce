@@ -1,0 +1,16 @@
+.rec.rec-slider-container {
+    overflow: visible;
+  }
+  .slider-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 128px;
+    width: 318px;
+    background-color: #00008b;
+    color: #fff;
+    margin: 0 15px;
+    font-size: 4em;
+  }
+  
+  

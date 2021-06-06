@@ -1,0 +1,42 @@
+.no-border{
+    border-width:0px;
+    border-style: none;
+   outline:0px;
+    
+}
+.search-box{
+    text-align: center;
+    background: #E5E5E5;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    height: 40px;
+    margin-left: 16px;
+    margin-right: 16px;
+    top: 145px;
+
+/* #F2F2F2 */
+
+background: #F2F2F2;
+opacity: 0.9;
+border-radius: 4px;
+    
+}
+
+
+input {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    background: #E5E5E5;
+    width: 100%;
+
+    
+  }
+  
+  .no-outline:focus {
+    outline: none;
+  }
